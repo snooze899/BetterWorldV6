@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x42f6b189bc0dce1471e4a14b575f22e773bbc5f0",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/tx/0xe082af0b8285bb81ba8993b39bdae09c44ef74b1dfe37c797d998cb9e20a3746",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Better World",
+  "SYMBOL": "BWNFT",
+  "MAX_SUPPLY": 2022,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/BetterWorldNFT",
+  "SHOW_BACKGROUND": true
+}
